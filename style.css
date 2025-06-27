@@ -46,3 +46,17 @@ body {
       text-decoration: none;
       color: #000000;
     }
+
+    .img1 {
+      display: block;
+      margin: 0 auto;
+      width: 300px;
+      height: auto;
+    }
+
+    .img2 {
+      display: block;
+      margin: 0 auto;
+      width: 218px;
+      height: auto;
+    }
